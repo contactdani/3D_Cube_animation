@@ -33,7 +33,7 @@ body{
 }
 #left{
     transform: rotateY(-90deg) translateX(-200px);
-    background-color: lawngreen;
+    background-color: rgb(24, 217, 84);
     transform-origin: left;
 }
 #right{
